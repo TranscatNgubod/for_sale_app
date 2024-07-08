@@ -1,3 +1,3 @@
-# for_sale_app
-this realease was acquired by Ngubod Valentine. Product sold for 50 thousand francs CFA
-Tean Ghost hereby transfer all rights and copyrights to Ngubod valentine
+# for_sale_app: EMPLOYEE DIRECTORY
+This release was acquired by Ngubod Valentine. The product is sold for 50 thousand francs CFA
+Team Ghost hereby transfers all rights and copyrights to Ngubod Valentine.
